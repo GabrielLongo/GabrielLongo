@@ -13,7 +13,7 @@ Bem, são muito mais coisas do que eu consigo fazer ao mesmo tempo, mas estou te
 
 Por favor, sinta-se a vontade para me enviar mensagens privadas
 
-- [Atraves do meu perfil no linkedin](https://www.linkedin.com/in/gabriel-longo-8b68041a7/)
+- [Atraves do meu perfil no linkedin](https://www.linkedin.com/in/gabriel-longo-8b68041a7/?locale=pt_BR)
 - [Atraves do meu perfil no Github](https://github.com/GabrielLongo)
 - [Visite o meu site, gabriellongo.com.br](https://gabriellongo.com.br)
 
