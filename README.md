@@ -16,7 +16,7 @@ Well, many things I can't accomplish at the same time, but i'm trying to do a li
 
 Please, fell free to send me private messages through
 
-- [Through my linkedin Profile](https://www.linkedin.com/in/gabriel-longo-8b68041a7/)
+- [Through my linkedin Profile](https://www.linkedin.com/in/gabriel-longo-8b68041a7/?locale=en_US)
 - [Through my Github Profile](https://github.com/GabrielLongo)
 - [Visit my Website, gabriellongo.com.br](https://gabriellongo.com.br)
 
