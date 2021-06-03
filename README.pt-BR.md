@@ -3,7 +3,7 @@
 
 Olá, Sou @GabrielLongo
 
-Tenho interesse em tecnologias Livres e Open-Source (FOSS or FLOSS), Linux, DevOps, Automação, Hardware and eletronica.
+Tenho interesse em tecnologias Livres e Open-Source (FOSS or FLOSS), Linux, DevOps, Automação, Hardware e Eletrônica.
 
 Estou atualmente estudando Angular, TypeScript, Containers (Podman, Docker, etc), Shell Script, Flatpak (e outros sistemas de empacotamento), Python, Java, C/C++ e Rust. 
 
