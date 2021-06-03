@@ -6,7 +6,7 @@
 
 Hi, I’m @GabrielLongo
 
-I’m interested in Free and Open-Source tech (FOSS or FLOSS), DevOps, Automation, Hardware and eletronics.
+I’m interested in Free and Open-Source tech (FOSS or FLOSS), Linux, DevOps, Automation, Hardware and eletronics.
 
 I’m currently learning Angular, TypeScript, Containers (Podman, Docker, etc), Shell Script, Flatpak (and other packaging systems), Python, Java, C/C++ and Rust. 
 
