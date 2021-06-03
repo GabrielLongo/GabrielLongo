@@ -1,7 +1,7 @@
-# GabrielLongo/README.md
+### GabrielLongo/README.md
 
 
-##### \# Para ler esse arquivo em portugues, visite este link [README.pt-BR.md](https://github.com/GabrielLongo/GabrielLongo/blob/main/README.pt-BR.md)
+#### \# 🇧🇷 🇵🇹 Para ler esse arquivo em PORTUGUES, visite este link [README.pt-BR.md](https://github.com/GabrielLongo/GabrielLongo/blob/main/README.pt-BR.md)
 
 
 Hi, I’m @GabrielLongo
@@ -12,7 +12,7 @@ I’m currently learning Angular, TypeScript, Containers (Podman, Docker, etc), 
 
 Well, many things I can't accomplish at the same time, but i'm trying to do a little bit at time.. 
 
-## 📫 How to reach me 
+#### 📫 How to reach me 
 
 Please, fell free to send me private messages through
 
