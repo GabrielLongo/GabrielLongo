@@ -1,7 +1,7 @@
 # GabrielLongo/README.md
 
 
-##### \# Para ler esse arquivo em portugues, visite este link [README.pt-BR.md]
+##### \# Para ler esse arquivo em portugues, visite este link [README.pt-BR.md](https://github.com/GabrielLongo/GabrielLongo/blob/main/README.pt-BR.md)
 
 
 Hi, I’m @GabrielLongo
