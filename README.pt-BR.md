@@ -1,7 +1,7 @@
 # GabrielLongo/README.md
 
 
-OLá, Sou @GabrielLongo
+Olá, Sou @GabrielLongo
 
 Tenho interesse em tecnologias Livres e Open-Source (FOSS or FLOSS), Linux, DevOps, Automação, Hardware and eletronica.
 
